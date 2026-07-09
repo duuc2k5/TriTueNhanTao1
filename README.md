@@ -1,2 +1,0 @@
-# TriTueNhanTao1
-AI
